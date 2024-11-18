@@ -10,4 +10,4 @@ This project demonstrates how to encrypt and decrypt files using Python and the 
 First, you need to generate an encryption key using the following command:
 
 ```bash
-python encryption.py
+python encrypt or decrypt file.py
